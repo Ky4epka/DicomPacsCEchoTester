@@ -1,0 +1,11 @@
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Debug\DicomPacsConTest.exe.config
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Debug\DicomPacsConTest.exe
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Debug\DicomPacsConTest.pdb
+C:\Users\Админ\source\repos\DicomPacsConTest\obj\Debug\DicomPacsConTest.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\DicomPacsConTest\obj\Debug\DicomPacsConTest.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\DicomPacsConTest\obj\Debug\DicomPacsConTest.csproj.CopyComplete
+C:\Users\Админ\source\repos\DicomPacsConTest\obj\Debug\DicomPacsConTest.exe
+C:\Users\Админ\source\repos\DicomPacsConTest\obj\Debug\DicomPacsConTest.pdb
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Debug\Dicom.Core.dll
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Debug\Dicom.Core.pdb
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Debug\Dicom.Core.xml

@@ -1,0 +1,12 @@
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Release\test.bat
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Release\Dicom.Core.dll
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Release\Dicom.Core.pdb
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Release\Dicom.Core.xml
+C:\Users\Админ\source\repos\DicomPacsConTest\obj\Release\DicomPacsEchoTester.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\DicomPacsConTest\obj\Release\DicomPacsEchoTester.csproj.CopyComplete
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Release\DicomPacsCEchoTester.exe.config
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Release\DicomPacsCEchoTester.exe
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Release\DicomPacsCEchoTester.pdb
+C:\Users\Админ\source\repos\DicomPacsConTest\obj\Release\DicomPacsCEchoTester.exe
+C:\Users\Админ\source\repos\DicomPacsConTest\obj\Release\DicomPacsCEchoTester.pdb
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Release\ReadMe.txt

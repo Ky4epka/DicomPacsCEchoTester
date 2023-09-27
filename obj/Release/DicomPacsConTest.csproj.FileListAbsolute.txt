@@ -1,0 +1,12 @@
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Release\DicomPacsConTest.exe.config
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Release\DicomPacsConTest.exe
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Release\DicomPacsConTest.pdb
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Release\Dicom.Core.dll
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Release\Dicom.Core.pdb
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Release\Dicom.Core.xml
+C:\Users\Админ\source\repos\DicomPacsConTest\obj\Release\DicomPacsConTest.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\DicomPacsConTest\obj\Release\DicomPacsConTest.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\DicomPacsConTest\obj\Release\DicomPacsConTest.csproj.CopyComplete
+C:\Users\Админ\source\repos\DicomPacsConTest\obj\Release\DicomPacsConTest.exe
+C:\Users\Админ\source\repos\DicomPacsConTest\obj\Release\DicomPacsConTest.pdb
+C:\Users\Админ\source\repos\DicomPacsConTest\bin\Release\test.bat
